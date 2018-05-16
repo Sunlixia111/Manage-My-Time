@@ -1,7 +1,7 @@
 # Manage My Time
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/HyltonJohn/FUNGithub/master/IMG/logo.jpg">
+<img width=300 src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/logo.jpg">
 
 <br> <br>
 
@@ -15,11 +15,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/HyltonJohn/FUNGithub/master/IMG/1.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/HyltonJohn/FUNGithub/master/IMG/2.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/HyltonJohn/FUNGithub/master/IMG/3.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/HyltonJohn/FUNGithub/master/IMG/4.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/HyltonJohn/FUNGithub/master/IMG/5.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/4.JPG"> </td>
 
 </tr>
 
