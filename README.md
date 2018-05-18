@@ -1,7 +1,7 @@
 # Manage My Time
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/logo.jpg">
+<img width=300 src="https://raw.githubusercontent.com/Sunlixia111/Manage-My-Time/master/IMG/logo1.jpg">
 
 <br> <br>
 
